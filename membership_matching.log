@@ -1,0 +1,5 @@
+2023-12-08 13:03:22,155 - INFO - START membership_matching =============================================
+2023-12-08 13:03:22,155 - INFO - START membership_matching Start Time = 2023-12-08 13:03:22
+2023-12-08 13:03:22,155 - INFO - membership_matching Step 0 - Initialize the configuration file parser
+2023-12-08 13:03:59,408 - INFO - membership_matching - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-12-08 13:05:49,498 - INFO - membership_matching - Step 1 - Load ANY data set for which to run discovery or data profiling

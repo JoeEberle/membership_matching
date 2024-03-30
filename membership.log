@@ -1,0 +1,9 @@
+2023-11-03 15:51:16,687 - INFO - START membership =============================================
+2023-11-03 15:51:16,687 - INFO - START membership Start Time = 2023-11-03 15:51:16
+2023-11-03 15:51:16,687 - INFO - membership Step 0 - Initialize the configuration file parser
+2023-11-03 15:51:49,157 - INFO - membership - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-11-03 15:53:31,909 - INFO - membership - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-11-03 17:07:39,273 - INFO - membership - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-11-03 17:08:03,510 - INFO - membership - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-11-03 17:12:00,381 - INFO - membership - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-11-03 17:12:49,117 - INFO - membership - Step 1 - Load ANY data set for which to run discovery or data profiling
