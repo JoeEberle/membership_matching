@@ -18,9 +18,9 @@ Solution for Membership Matching
 
 ## Notebook Features
 - **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each ptyhon function
+- **Self Testing** - Unit Testing for each function
 - **Easily Configurable** -easily modifyable with config.INI name value pairs
-- **Includes Talking Code** - The code explains itself.
+- **Includes Talking Code** - The code explains itself 
 - **Self Logging** - enhanced python standard logging   
 - **Self Debugging** - enhanced python standard debugging
 - **Low Code - or - No Code** - Most solutions are under 50 lines of code
@@ -38,4 +38,4 @@ To get started with the **Membership Matching** solution repository, follow thes
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ![additional_image](pandas.png)  <br>
+    ## Deliverables or Figures![additional_image](pandas.png)  <br>
