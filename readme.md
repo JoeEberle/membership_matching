@@ -46,4 +46,7 @@ To get started with the **Membership Matching** solution repository, follow thes
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](pandas.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](pandas.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
