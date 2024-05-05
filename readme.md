@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Membership Matching - Solution for Membership Matching
 Solution for Membership Matching
 
@@ -9,8 +11,6 @@ Welcome to the solution **Membership Matching** - an example for your projects
 Solution for Membership Matching
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
