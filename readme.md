@@ -4,21 +4,11 @@
 
 ## 2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple Short process duration less than 3 Seconds:0.01
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Membership Matching** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Membership Matching** 
 
 2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple Short process duration less than 3 Seconds:0.01
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
